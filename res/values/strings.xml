@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Aranya2014</string>
+    <string name="app_name">Aranya 2014</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-
+  
+  
+  <string name="drawer_open">Navigation drawer opens</string>
+  <string name="drawer_close">Navigation drawer closes</string>
+  
+  <string-array name="items">
+        <item>Home</item>
+        <item>Contact us</item>
+        <item>About us</item>
+        <item>Notifications</item>
+        <item>Developers</item>
+  </string-array>
 </resources>
